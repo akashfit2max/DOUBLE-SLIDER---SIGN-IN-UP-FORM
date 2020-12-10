@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-##Project description
+## Project description
 
 Before we move to the actual code, I'd like to break down the things we're going to have in the component. This will help as it will make the code we write much clearer.
 
