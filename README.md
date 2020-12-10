@@ -1,4 +1,4 @@
-# sliding-Sign-Signup-form
+# DOUBLE SLIDER - SIGN IN/UP FORM
 
 ## Welcome! 👋
 
